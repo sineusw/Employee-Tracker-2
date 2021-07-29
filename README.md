@@ -36,4 +36,5 @@ I built a command-line application that at a minimum allows the user to:
 
   * Update employee roles
 
-
+Github- https://github.com/sineusw/Employee-Tracker-2.git
+Walk Through Video- https://youtu.be/FazckOZNiuQ
